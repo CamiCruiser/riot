@@ -22,7 +22,7 @@ Video corto (reel) o carrusel de 3 slides, cara de Felipe hablando a cámara o f
 
 **Slide 3 / cierre + CTA:**
 "El boxeo no se trata de repetir golpes. Se trata de entenderlos.
-Sigue el proceso en @riotboxingclub, conoce el sistema en la web y agenda tu primera clase en el Dojo."
+Sigue el proceso en @riotboxingclub, conoce el sistema en la web y agenda tu primera clase."
 
 ### Por qué funciona
 - **No usa el cliché fitness** ("transformación", "antes y después físico"): el eje es cognitivo — "capacidad de análisis", "dotar de sentido" — que es exactamente el diferencial de Riot frente a box comercial masivo (sección 9 del CLAUDE.md).

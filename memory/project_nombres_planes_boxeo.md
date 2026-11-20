@@ -15,4 +15,6 @@ Planes de boxeo vigentes (2026-11-20):
 
 **Why:** Camila aclaró el 2026-11-20 que los planes que decían "Dojo" ahora se llaman "Boxeo" y que la familia "Fundamentos" (Fundamentos Económico / Completo / Ilimitado) ya no va. "Dojo" sigue siendo el nombre del lugar y se usa en frases como "dojo privado" o "agenda tu primera clase en el Dojo", pero no como parte del nombre de un plan.
 
-**How to apply:** usar siempre estos nombres en posts, WhatsApp, ClassPass y la web. No volver a usar "Plan Dojo ..." ni "Fundamentos ...". Los planes de Entrenamiento Funcional están en [[project_riot_conditioning_launch]]; su descuento aplica a alumnos con plan de boxeo activo. Pendiente de confirmar: si el CTA estándar "agenda tu primera clase Dojo" (CLAUDE.md sección 12) debe pasar a decir "Boxeo".
+**How to apply:** usar siempre estos nombres en posts, WhatsApp, ClassPass y la web. No volver a usar "Plan Dojo ..." ni "Fundamentos ...". Los planes de Entrenamiento Funcional están en [[project_riot_conditioning_launch]]; su descuento aplica a alumnos con plan de boxeo activo.
+
+**Frase de cierre (CTA) de los posts:** termina en "agenda tu primera clase." y nada más, sin "Dojo" ni "Boxeo" al final (Camila, 2026-11-20). Ya está así en CLAUDE.md sección 12 y en testimonios.md.
