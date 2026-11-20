@@ -1,0 +1,10 @@
+- [Class building system](project_class_building_system.md) — Calentamiento/Base/Boxeo blocks, 5-thread-per-attribute temario model, rojo/azul drill roles
+- [Quote cards need emotional identification](feedback_quote_cards_emotional_identification.md) — anime boxer quotes work when reader feels personally identified, not just describing the character
+- [Sendo post went viral](project_sendo_post_viral_performance.md) — 42.5K views/5-10x other posts; "No se trata de X. Se trata de Y." + "no escapar" theme outperformed comparison-to-self themes
+- [Anime quotes must be real](feedback_anime_quotes_must_be_real.md) — audience called out invented quotes; only use verified real manga/anime lines now, never invent "inspired by" ones
+- [Diferenciadores oficiales de Riot](reference_riot_diferenciadores_classpass.md) — frase de misión + lista aprobada (entrenadora certificada, máx 4 personas, zona gamer, etc.) para ClassPass/web
+- [Hexágono attribute cards](hexagono_de_combate_attributes.md) — in-app card format per attribute; Destreza's 6 sub-skills (Técnica, Coordinación, Juego de pies, Precisión de golpeo, Fluidez, Defensa por esquiva)
+- [WhatsApp tono personal](feedback_whatsapp_tono_personal.md) — al grupo de alumnos escribir como mensaje real, sin formato de IA/post; guardar estructura para Instagram/ClassPass
+- [Riot Conditioning launch](project_riot_conditioning_launch.md) — nombre, horarios (lun-jue 9:00, sáb 10:15/11:20), precios y sparring gratis de sábado (12:30-13:30, cupo 6)
+- [Plan Funcional: estructura de clase](project_plan_funcional_estructura_clase.md) — Calentamiento/Base (fuerza, foco mensual)/Boxeo al final por ruido desde 9:40; lista de implementos
+- [Riot rebrand 2026 decisions](project_riot_rebrand_2026_decisions.md) — palette kept, star+hexagon halo, 3 lockups, no kanji, no AI illustration; still in evaluation (see CLAUDE.md §15)

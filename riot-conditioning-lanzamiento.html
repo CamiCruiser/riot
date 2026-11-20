@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<title>Riot Conditioning - Lanzamiento</title>
+<link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700;800&display=swap" rel="stylesheet">
+<style>
+  :root { --red:#E53035; --cyan:#00BCD4; --bg:#0a0a0a; --bone:#f2efe9; }
+  * { box-sizing:border-box; margin:0; padding:0; }
+  body { background:#222; display:flex; justify-content:center; padding:24px; }
+  .post {
+    width:1080px; height:1350px; background:var(--bg); color:var(--bone);
+    font-family:'Barlow Condensed','Arial Narrow',Impact,sans-serif; font-weight:700;
+    position:relative; overflow:hidden; padding:72px 80px; display:flex; flex-direction:column;
+    transform-origin:top center;
+  }
+  .hex { position:absolute; right:-160px; top:120px; width:760px; opacity:.9; }
+  .tag { font-size:34px; letter-spacing:.32em; color:var(--red); position:relative; z-index:2; }
+  h1 { font-size:250px; line-height:.82; font-weight:800; text-transform:uppercase; margin-top:36px; position:relative; z-index:2; letter-spacing:-.01em; }
+  h1 span { color:var(--red); display:block; }
+  .sub { font-size:52px; margin-top:34px; text-transform:uppercase; letter-spacing:.04em; position:relative; z-index:2; }
+  .when { margin-top:22px; font-size:44px; color:var(--cyan); letter-spacing:.06em; text-transform:uppercase; position:relative; z-index:2; }
+  .chips { display:flex; flex-wrap:wrap; gap:12px; margin-top:38px; position:relative; z-index:2; max-width:760px; }
+  .chips b { border:3px solid var(--bone); padding:6px 22px; font-size:34px; letter-spacing:.08em; text-transform:uppercase; font-weight:600; }
+  .open { margin-top:34px; font-size:40px; max-width:700px; line-height:1.1; text-transform:uppercase; position:relative; z-index:2; }
+  .open em { color:var(--red); font-style:normal; }
+  .prices { margin-top:auto; display:grid; grid-template-columns:1.25fr 1.25fr 1fr; gap:16px; position:relative; z-index:2; }
+  .card { border:3px solid var(--bone); padding:20px 22px 18px; }
+  .card.hl { background:var(--red); border-color:var(--red); }
+  .card small { display:block; font-size:28px; letter-spacing:.08em; text-transform:uppercase; font-weight:600; }
+  .card strong { display:block; font-size:78px; line-height:1; font-weight:800; margin-top:6px; }
+  .card i { display:block; font-style:normal; font-size:26px; margin-top:6px; opacity:.85; text-transform:uppercase; letter-spacing:.06em; }
+  .cta { margin-top:28px; font-size:36px; letter-spacing:.06em; text-transform:uppercase; text-align:center; position:relative; z-index:2; }
+  .cta em { color:var(--red); font-style:normal; }
+</style>
+</head>
+<body>
+<div class="post">
+
+  <!-- Halo hexagonal: rojo = fisicos (Fuerza, Destreza, Resistencia), cyan = mentales (Inteligencia, Astucia, Percepcion) -->
+  <svg class="hex" viewBox="-200 -200 400 400" xmlns="http://www.w3.org/2000/svg">
+    <polygon points="0,-180 156,-90 156,90 0,180 -156,90 -156,-90" fill="none" stroke="#2b2b2b" stroke-width="3"/>
+    <polygon points="0,-120 104,-60 104,60 0,120 -104,60 -104,-60" fill="none" stroke="#2b2b2b" stroke-width="3"/>
+    <polygon points="0,-180 156,-90 104,60 0,120 -156,90 -156,-90" fill="rgba(229,48,53,.12)" stroke="none"/>
+    <circle cx="0"    cy="-180" r="14" fill="#E53035"/>  <!-- Fuerza -->
+    <circle cx="156"  cy="-90"  r="9"  fill="#E53035" opacity=".5"/>  <!-- Destreza -->
+    <circle cx="156"  cy="90"   r="9"  fill="#E53035" opacity=".5"/>  <!-- Resistencia -->
+    <circle cx="0"    cy="180"  r="9"  fill="#00BCD4" opacity=".5"/>  <!-- Inteligencia -->
+    <circle cx="-156" cy="90"   r="9"  fill="#00BCD4" opacity=".5"/>  <!-- Astucia -->
+    <circle cx="-156" cy="-90"  r="9"  fill="#00BCD4" opacity=".5"/>  <!-- Percepcion -->
+    <circle cx="156" cy="90" r="14" fill="#E53035"/>
+  </svg>
+
+  <div class="tag">RIOT BOXING CLUB</div>
+  <h1>Riot<span>Conditioning</span></h1>
+  <div class="sub">Entrenamiento funcional con boxeo</div>
+  <div class="when">Lunes a jueves · 9:00 a 10:00 · Desde octubre</div>
+
+  <div class="chips">
+    <b>Saco</b><b>Focos</b><b>Fideos</b><b>Combate</b><b>Kettlebell</b><b>Battle rope</b>
+  </div>
+
+  <div class="open">Trabajas <em>Fuerza</em> y <em>Resistencia</em>. No necesitas saber boxear.</div>
+
+  <div class="prices">
+    <div class="card"><small>8 sesiones al mes</small><strong>$40.000</strong><i>2 veces por semana</i></div>
+    <div class="card hl"><small>Alumnos con plan</small><strong>$35.000</strong><i>Precio de lanzamiento</i></div>
+    <div class="card"><small>Clase suelta</small><strong>$7.000</strong><i>Sin compromiso</i></div>
+  </div>
+
+  <div class="cta">Síguenos · Revisa la web · <em>Agenda tu primera clase</em></div>
+</div>
+</body>
+</html>
