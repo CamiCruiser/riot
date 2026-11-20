@@ -8,4 +8,5 @@
 - [Riot Conditioning launch](project_riot_conditioning_launch.md) — nombre, horarios (lun-jue 9:00, sáb 10:15/11:20), precios y sparring gratis de sábado (12:30-13:30, cupo 6)
 - [Plan Funcional: estructura de clase](project_plan_funcional_estructura_clase.md) — Calentamiento/Base (fuerza, foco mensual)/Boxeo al final por ruido desde 9:40; lista de implementos
 - [Riot rebrand 2026 decisions](project_riot_rebrand_2026_decisions.md) — palette kept, star+hexagon halo, 3 lockups, no kanji, no AI illustration; still in evaluation (see CLAUDE.md §15)
+- [Nombres de planes de boxeo](project_nombres_planes_boxeo.md) — Clase de prueba Boxeo, Plan Boxeo Económico/Completo, a tu medida, sparring, personalizada; "Dojo" y "Fundamentos" ya no son nombres de plan
 - [Memoria en el repo](reference_memoria_en_repo.md) — memory/ del repo privado CamiCruiser/riot es la única copia (junction); Claude la lee, la alimenta y sube cambios solo

@@ -8,9 +8,9 @@ metadata:
   modified: 2026-11-16T14:05:50.105Z
 ---
 
-**Nombre final elegido: "Plan Funcional"** (Camila lo decidió directo en la pieza gráfica). Recorrido de naming antes de llegar ahí: Riot Camp → Riot Conditioning → se evaluaron alternativas en español porque el resto de los planes usa la familia "Fundamentos" (Riot Acondicionamiento / Riot Acondicionamiento de Combate / Condición / Motor, etc.) → terminó en "Plan Funcional", más simple que todo lo anterior. Bajada usada en el caption: "Entrenamiento funcional con boxeo".
+**Nombre final elegido: "Plan Funcional"** (Camila lo decidió directo en la pieza gráfica). Recorrido de naming antes de llegar ahí: Riot Camp → Riot Conditioning → se evaluaron alternativas en español (Riot Acondicionamiento / Riot Acondicionamiento de Combate / Condición / Motor, etc.) → terminó en "Plan Funcional", más simple que todo lo anterior. Bajada usada en el caption: "Entrenamiento funcional con boxeo".
 
-**Nota:** "Plan Funcional" no sigue la convención "Fundamentos X" que se definió para los planes de boxeo (Fundamentos Económico, Fundamentos Completo, Fundamentos Ilimitado pendiente). Confirmar con Camila si esto es intencional o si más adelante quiere alinear el nombre.
+**Nota (2026-11-20):** la convención "Fundamentos X" para los planes de boxeo ya no existe; Camila la descartó. Los nombres vigentes de los planes de boxeo están en [[project_nombres_planes_boxeo]].
 
 **Nombres finales de los dos planes dentro de Plan Funcional:**
 - **Funcional Económico** — plan de 8 sesiones/mes, $40.000 general / $35.000 alumnos con plan de la tarde activo.
